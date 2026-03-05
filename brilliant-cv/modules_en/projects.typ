@@ -1,5 +1,6 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry, h-bar
+#import "@preview/fontawesome:0.6.0": *
 #let metadata = toml("../metadata.toml")
 #let cv-section = cv-section.with(metadata: metadata)
 #let cv-entry = cv-entry.with(metadata: metadata)
@@ -30,13 +31,12 @@
 )
 
 #cv-entry(
-  title: [D&D Inventory Manager],
+  title: [D&D Inventory Manager #h-bar() #link("https://github.com/noelfischer/dnd-inventory")[#fa-github() GitHub] #h-bar() #link("https://dnd-inventory.vercel.app")[#fa-arrow-up-right-from-square() Demo]],
   society: [Personal Project],
   date: [],
   location: [],
   description: list(
     [Management tool based on Next.js and Tailwind CSS, deployed via a Vercel CI/CD pipeline],
     [Development of a dynamic, customizable grid system for an adaptive user interface on all devices],
-    [GitHub: github.com/noelfischer/dnd-inventory #h-bar() Demo: dnd-inventory.vercel.app],
   ),
 )
