@@ -8,13 +8,13 @@
 #cv-section("Projects")
 
 #cv-entry(
-  title: [Bachelor Thesis SketchAI],
-  society: [],
-  date: [2025 - 2026],
+  title: [AI-based interpretation of technical drawings],
+  society: [Bachelor Thesis SketchAI],
+  date: [],
   location: [],
   description: list(
-    [AI-based interpretation of technical drawings],
-    [Development of a deep learning model for AI-supported interpretation of standardized technical drawings including literature research, dataset definition, implementation, evaluation and training on HPC infrastructure],
+    [Development of a deep learning model for AI-supported interpretation of standardized technical drawings],
+    [literature research, dataset definition, implementation, evaluation and training on HPC infrastructure],
   ),
 )
 

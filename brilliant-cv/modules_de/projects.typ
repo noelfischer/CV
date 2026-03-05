@@ -8,13 +8,13 @@
 #cv-section("Projekte")
 
 #cv-entry(
-  title: [Bachelor Thesis SketchAI],
-  society: [],
-  date: [2025 - 2026],
+  title: [KI-basierte Interpretation von technischen Zeichnungen],
+  society: [Bachelor Thesis SketchAI],
+  date: [],
   location: [],
   description: list(
-    [KI-basierte Interpretation von technischen Zeichnungen],
-    [Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen inklusive Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur],
+    [Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen],
+    [Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur],
   ),
 )
 

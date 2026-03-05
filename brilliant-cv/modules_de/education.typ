@@ -1,8 +1,9 @@
 // Imports
-#import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry, h-bar
+#import "@preview/brilliant-cv:3.1.2": cv-section, h-bar
+#import "../custom/cv-entry-left-date.typ": cv-entry-left-date
 #let metadata = toml("../metadata.toml")
 #let cv-section = cv-section.with(metadata: metadata)
-#let cv-entry = cv-entry.with(metadata: metadata)
+#let cv-entry = cv-entry-left-date.with(metadata: metadata)
 
 
 #cv-section("Aus- und Weiterbildungen")
@@ -30,7 +31,7 @@
   title: [Berufslehre zum Informatiker mit technischer Berufsmaturität],
   society: [Berufsbildungsschule Winterthur],
   date: [08.2018 - 08.2022],
-  location: [Schweiz],
+  location: [Winterthur, Schweiz],
   description: list(
     [Vertiefungsausrichtung Applikationsentwicklung],
   ),
