@@ -1,0 +1,74 @@
+Noel Fischer
+
+            Persönliche Daten
+Adresse	        Redacted
+Geburtsdatum	24.08.2002
+Nationalität	Schweiz
+Telefon	        +41 76 392 10 33
+E-Mail	        noelfischer@gmx.ch
+Links           linkedin.com/in/noel-fischer, github.com/noelfischer    
+
+            Kurzprofil
+Informatikstudent im letzten Semester mit Bachelorarbeit in Computer Vision und Generative AI. Seit 2018 bei Adnovum AG tätig vom Lernenden zum Application Developer in Teilzeit, mit Fokus auf Software Engineering, agiles Arbeiten sowie internationaler Erfahrung durch ein Auslandsemester in Japan.
+
+            Aus- und Weiterbildungen
+09.2022 – 06.2026 	Bachelor of Science in Informatik
+                    ZHAW School of Engineering, Winterthur, Schweiz
+                    - International Profile, Entrepreneurial Profile, ZHAW Innovation Challenge 1.0 Gewinner
+                    - Bachelorarbeit «Sketch-AI» unter Betreuung von Thilo Stadelmann
+09.2025 – 01.2026	Auslandsemester
+                    Shibaura Institute of Technology, Tokio, Japan
+08.2018 – 08.2022	Berufslehre zum Informatiker mit technischer Berufsmaturität
+                    Berufsbildungsschule Winterthur, Schweiz
+                    - Vertiefungsausrichtung Applikationsentwicklung
+
+            Berufserfahrung
+08.2022 – heute 	Application Developer (Teilzeit, 50%)
+                    Adnovum AG
+                    - Zusammenarbeit in einem Scrum und SAFe-basiertem Team bei einem grossen IT-Projekt.
+                    - Erstellen und Handhaben von Features für Datenbanken, serverkritische Anwendungen, Webseiten und die Verknüpfung und Kommunikation dieser verschiedenen Komponenten.
+                    – Umgang mit Technologien Java, Angular, TypeScript, SQL, CI/CD, SDLC
+08.2018 – 08.2022	Lehre als Informatiker
+                    Adnovum AG
+                    - Planung, Bereitstellung und Betreuung von Schnuppertagen.
+                    - Agiles Arbeiten im Team an einer Fullstack-Applikation im Bereich Identity Management.
+ 
+
+-------------------------
+
+
+            Projekte
+Bachelor Thesis SketchAI: KI-basierte Interpretation von technischen Zeichnungen.
+- Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen inklusive Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur.
+
+Persönliches Projekt soundvisualiser.com
+–	Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js und Firebase. Erfolgreich skaliert auf 2.000+ monatliche Nutzer.
+–	Implementierung der Web Audio API zur performanten Visualisierung von Frequenzdaten.
+
+Persönliches Projekt D&D Inventory Manager | [GitHub](github.com/noelfischer/dnd-inventory) | [Demo](dnd-inventory.vercel.app) 
+–	Management-Tool auf Basis von Next.js und Tailwind CSS, bereitgestellt über eine Vercel CI/CD-Pipeline.
+–	Entwicklung eines dynamischen, personalisierbaren Grid-Systems für eine adaptive Benutzeroberfläche auf allen Endgeräten.
+
+            IT-Kenntnisse
+Programmiersprachen	    Python, Java, JavaScript/TypeScript
+Software Development	SDLC, Agile/Scrum methodologies, Git, version control
+Machine Learning/AI	    TensorFlow, PyTorch, Keras
+Cloud	                Azure, Docker, Kubernetes, CI/CD pipelines
+Web	                    HTML, CSS, React, Next.js, Angular
+Data & Datenbanken	    SQL, PostgreSQL, MongoDB
+Backend	                Node.js, FastAPI, Spring Boot
+
+            IT-Zertifikate
+Leading SAFe Certification
+Azure Cloud Certification
+
+            Sprachkenntnisse
+Deutsch	    Muttersprache
+Englisch	Verhandlungssicher, TOEFL iBT: 112/120 (C1 Advanced, 2025)
+Französisch	Schulkenntnisse
+
+            Freizeitaktivitäten und Interessen
+In meiner Freizeit gehe ich sehr gerne mit dem Zug in die Natur Wandern oder in nahegelegene Städte, um sie zu erkunden. Sportlich fordere ich mich bei Parkour und Calisthenics heraus. Meine Leidenschaft für IT setze ich zudem gerne in privaten Coding-Projekten um.
+
+            Referenzen
+Werden gerne auf Anfrage bekannt gegeben
