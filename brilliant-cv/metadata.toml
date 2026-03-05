@@ -10,8 +10,8 @@ language = "de"
     awesome_color = "skyblue"
 
     # Skips are for controlling the spacing between sections and entries
-    before_section_skip = "1pt"
-    before_entry_skip = "1pt"
+    before_section_skip = "15pt"
+    before_entry_skip = "6pt"
     before_entry_description_skip = "1pt"
 
     # Optional: sets paper size and margins. Possible values: a4 (default), us-letter
@@ -67,30 +67,19 @@ language = "de"
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        github = "noelfischer"
+        location = "Zürich, Schweiz"
+        "custom-1" = { awesomeIcon = "calendar", text = "24.08.2002", link = "" }
+        "custom-2" = { awesomeIcon = "flag", text = "Schweizer", link = "" }
+
         phone = "+41 76 392 10 33"
         email = "noelfischer@gmx.ch"
         linkedin = "noel-fischer"
+        github = "noelfischer"
         # gitlab = "yunanwg"
         # homepage = "johndoe.dev"
         # orcid = "0000-0000-0000-0000"
         # researchgate = "John-Doe"
-        location = "Zürich, Schweiz"
         # extraInfo = "Available for remote work"
-        
-        # Custom info with awesome icon
-        [personal.info.custom-1]
-            # image = "" # Example: image("./path/to/image.png")
-            awesomeIcon = "calendar" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
-            text = "24.08.2002"
-            link = ""
-            
-        # Custom info with image icon
-        [personal.info.custom-2]
-            # image = image("./path/to/custom-icon.png") # Custom image icon
-            awesomeIcon = "flag"
-            text = "Schweiz"
-            link = ""
             
         # Linebreak example - adds a line break in header info
         # linebreak = ""

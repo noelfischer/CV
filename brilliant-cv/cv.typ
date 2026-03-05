@@ -13,6 +13,9 @@
     include {
       "modules_" + lang + "/" + module + ".typ"
     }
+    if module == "projects" {
+      pagebreak()
+    }
   }
 }
 
