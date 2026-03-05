@@ -3,40 +3,52 @@
 #let metadata = toml("../metadata.toml")
 #let cv-section = cv-section.with(metadata: metadata)
 
+// Custom cv-skill with wider type column (5cm instead of default)
+#let cv-skill-wide(type: "", info: "") = {
+  table(
+    columns: (4cm, 1fr),
+    inset: 0pt,
+    stroke: none,
+    row-gutter: 6pt,
+    align: left,
+    [*#type*], info
+  )
+  v(-0.3em)
+}
 
 #cv-section("IT-Kenntnisse")
 
-#cv-skill(
+#cv-skill-wide(
   type: [Programmiersprachen],
   info: [Python #h-bar() Java #h-bar() JavaScript/TypeScript],
 )
 
-#cv-skill(
+#cv-skill-wide(
   type: [Software Development],
   info: [SDLC #h-bar() Agile/Scrum methodologies #h-bar() Git #h-bar() Version Control],
 )
 
-#cv-skill(
-  type: [Machine Learning/AI],
+#cv-skill-wide(
+  type: [Machine Learning / AI],
   info: [TensorFlow #h-bar() PyTorch #h-bar() Keras],
 )
 
-#cv-skill(
+#cv-skill-wide(
   type: [Cloud],
   info: [Azure #h-bar() Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines],
 )
 
-#cv-skill(
+#cv-skill-wide(
   type: [Web],
   info: [HTML #h-bar() CSS #h-bar() React #h-bar() Next.js #h-bar() Angular],
 )
 
-#cv-skill(
+#cv-skill-wide(
   type: [Data & Datenbanken],
   info: [SQL #h-bar() PostgreSQL #h-bar() MongoDB],
 )
 
-#cv-skill(
+#cv-skill-wide(
   type: [Backend],
   info: [Node.js #h-bar() FastAPI #h-bar() Spring Boot],
 )
