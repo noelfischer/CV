@@ -10,25 +10,11 @@
 #cv-honor(
   date: [],
   title: [Leading SAFe Certification],
-  issuer: [],
+  issuer: [Scaled Agile, Inc.],
 )
 
 #cv-honor(
   date: [],
-  title: [Azure Cloud Certification],
-  issuer: [Microsoft],
-)
-
-#cv-honor(
-  date: [2019],
-  title: [Tableau Desktop Certified Professional],
-  issuer: [Tableau Software],
-  url: "https://www.tableau.com/learn/certification",
-)
-
-#cv-honor(
-  date: [2018],
-  title: [SQL Fundamentals Track],
-  issuer: [DataCamp],
-  location: [Online],
+  title: [AWS Technical Certification],
+  issuer: [Amazon Web Services],
 )

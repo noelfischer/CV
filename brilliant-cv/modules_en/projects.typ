@@ -20,6 +20,17 @@
 )
 
 #cv-entry(
+  title: [Legatiq (ZHAW × Walder Wyss)],
+  society: [AI Legal Document Platform],
+  date: [],
+  location: [],
+  description: list(
+    [Built an AI legal assistant supporting document upload, semantic search (RAG), and automated summarization using LangChain, LangGraph, and Azure OpenAI],
+    [Implemented scalable document processing with PostgreSQL, Qdrant vector search, and containerized services, enabling semantic retrieval and AI-generated answers from legal PDFs],
+  ),
+)
+
+#cv-entry(
   title: [soundvisualiser.com],
   society: [Personal Project],
   date: [],
@@ -27,16 +38,5 @@
   description: list(
     [Development of a real-time audio analysis app with React, p5.js and Firebase. Successfully scaled to 2,000+ monthly users],
     [Implementation of the Web Audio API for performant visualization of frequency data],
-  ),
-)
-
-#cv-entry(
-  title: [D&D Inventory Manager #h-bar() #link("https://github.com/noelfischer/dnd-inventory")[#fa-github() GitHub] #h-bar() #link("https://dnd-inventory.vercel.app")[#fa-arrow-up-right-from-square() Demo]],
-  society: [Personal Project],
-  date: [],
-  location: [],
-  description: list(
-    [Management tool based on Next.js and Tailwind CSS, deployed via a Vercel CI/CD pipeline],
-    [Development of a dynamic, customizable grid system for an adaptive user interface on all devices],
   ),
 )

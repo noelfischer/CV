@@ -30,17 +30,17 @@
 
 #cv-skill-wide(
   type: [Machine Learning / AI],
-  info: [TensorFlow #h-bar() PyTorch #h-bar() Keras],
+  info: [TensorFlow #h-bar() PyTorch #h-bar() Keras #h-bar() LangChain #h-bar() RAG],
 )
 
 #cv-skill-wide(
   type: [Cloud],
-  info: [Azure #h-bar() Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines],
+  info: [Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines #h-bar() AWS #h-bar() Azure],
 )
 
 #cv-skill-wide(
   type: [Web],
-  info: [HTML #h-bar() CSS #h-bar() React #h-bar() Next.js #h-bar() Angular],
+  info: [HTML5/CSS3 #h-bar() Tailwind CSS #h-bar() React #h-bar() Next.js #h-bar() Angular],
 )
 
 #cv-skill-wide(
@@ -50,5 +50,5 @@
 
 #cv-skill-wide(
   type: [Backend],
-  info: [Node.js #h-bar() FastAPI #h-bar() Spring Boot],
+  info: [Node.js #h-bar() FastAPI #h-bar() Spring Boot #h-bar() REST APIs],
 )

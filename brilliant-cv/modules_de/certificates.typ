@@ -10,11 +10,11 @@
 #cv-honor(
   date: [],
   title: [Leading SAFe Certification],
-  issuer: [],
+  issuer: [Scaled Agile, Inc.],
 )
 
 #cv-honor(
   date: [],
-  title: [Azure Cloud Certification],
-  issuer: [Microsoft],
+  title: [AWS Technical Certification],
+  issuer: [Amazon Web Services],
 )

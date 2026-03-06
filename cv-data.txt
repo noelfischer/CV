@@ -39,24 +39,26 @@ Informatikstudent im letzten Semester mit Bachelorarbeit in Computer Vision und 
 
             Projekte
 Bachelor Thesis SketchAI: KI-basierte Interpretation von technischen Zeichnungen.
-- Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen inklusive Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur.
+- Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen
+- Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur.
 
-Persönliches Projekt soundvisualiser.com
+KI-Plattform zur Analyse juristischer Dokumente: Legatiq (ZHAW × Walder Wyss)
+- Entwicklung eines KI-gestützten Rechtsassistenten mit Dokumenten-Upload, semantischer Suche (RAG) und automatischer Zusammenfassung mittels LangChain, LangGraph und Azure OpenAI
+- Implementierung einer skalierbarer Dokumentenverarbeitung mit PostgreSQL, Qdrant Vector Search und containerisierten Services für semantische Suche und KI-generierte Antworten aus juristischen PDFs
+
+Persönliches Projekt: soundvisualiser.com
 –	Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js und Firebase. Erfolgreich skaliert auf 2.000+ monatliche Nutzer.
 –	Implementierung der Web Audio API zur performanten Visualisierung von Frequenzdaten.
 
-Persönliches Projekt D&D Inventory Manager | [GitHub](github.com/noelfischer/dnd-inventory) | [Demo](dnd-inventory.vercel.app) 
-–	Management-Tool auf Basis von Next.js und Tailwind CSS, bereitgestellt über eine Vercel CI/CD-Pipeline.
-–	Entwicklung eines dynamischen, personalisierbaren Grid-Systems für eine adaptive Benutzeroberfläche auf allen Endgeräten.
 
             IT-Kenntnisse
-Programmiersprachen	    Python, Java, JavaScript/TypeScript
-Software Development	SDLC, Agile/Scrum methodologies, Git, version control
-Machine Learning/AI	    TensorFlow, PyTorch, Keras
-Cloud	                Azure, Docker, Kubernetes, CI/CD pipelines
-Web	                    HTML, CSS, React, Next.js, Angular
-Data & Datenbanken	    SQL, PostgreSQL, MongoDB
-Backend	                Node.js, FastAPI, Spring Boot
+Programmiersprachen	Python, Java, JavaScript/TypeScript
+Software Development	SDLC, Agile/Scrum methodologies, Git, Version control
+Machine Learning/AI	TensorFlow, PyTorch, Keras, LangChain, RAG
+Cloud	                Docker, Kubernetes, CI/CD pipelines, AWS, Azure
+Web	                HTML5/CSS3, Tailwind CSS, React, Next.js, Angular
+Data & Datenbanken	SQL, PostgreSQL, MongoDB
+Backend	                Node.js, FastAPI, Spring Boot, REST APIs
 
             IT-Zertifikate
 Leading SAFe Certification
