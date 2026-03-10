@@ -2,7 +2,7 @@
 
 # Set the output language
 # INFO: value must matches folder suffix; i.e "de" -> "./modules_de"
-language = "de"
+language = "en"
 
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
@@ -67,9 +67,9 @@ language = "de"
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        location = "Zürich, Schweiz"
+        location = "Redacted, 8050 Zürich"
         "custom-1" = { awesomeIcon = "calendar", text = "24.08.2002", link = "" }
-        "custom-2" = { awesomeIcon = "flag", text = "Schweizer", link = "" }
+        "custom-2" = { awesomeIcon = "flag", text = "Swiss citizen", link = "" }
 
         phone = "+41 76 392 10 33"
         email = "noelfischer@gmx.ch"
@@ -93,6 +93,6 @@ language = "de"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Experienced Data Analyst looking for a full time job starting from now"
+    header_quote = "Computer science student in his final semester with a bachelor's thesis in computer vision and generative AI. Joined Adnovum AG in 2018, progressing from apprentice to part-time application developer, with a focus on software engineering, agile working and international experience gained during a semester abroad in Japan."
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"

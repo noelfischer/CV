@@ -11,28 +11,25 @@
 
 #show: letter.with(
   metadata,
-  sender-address: "Your Address Here",
-  recipient-name: "Company Name Here",
-  recipient-address: "Company Address Here",
+  sender-address: "Redacted\n8050 Zürich",
+  recipient-name: "Google DeepMind",
+  recipient-address: "Europaallee 36\n8004 Zürich",
   date: datetime.today().display(),
-  subject: "Subject: Hey!",
-  signature: image("assets/signature.png"),
+  subject: "Application for Software Engineer, Personalization, Gemini App, Google DeepMind",
 )
 
-Dear Hiring Manager,
+Dear Hiring Team,
 
-I am excited to submit my application for the Senior Data Analyst position at ABC Company. With over 5 years of experience in data analysis and a demonstrated track record of success, I am confident in my ability to make a valuable contribution to your team.
+I write to express strong interest in the Software Engineer, Personalization role for the Gemini App. I want to contribute to making the Gemini App the most personal assistant by building reliable, measurable personalization features that work end to end in production.
 
-In my current role as a Data Analyst at XYZ Company, I have gained extensive experience in data mining, quantitative analysis, and data visualization. Through my work, I have developed a deep understanding of statistical concepts and have become adept at using tools such as SQL, Python, and R to extract insights from complex datasets. I have also gained valuable experience in presenting complex data in a visually appealing and easily accessible manner to stakeholders across all levels of an organization.
+In my current role at Adnovum AG I develop and operate server-critical applications and full stack features in an agile environment. I build services and coordinate integrations across databases, backend APIs and frontend surfaces using Java, TypeScript, Angular and CI/CD. For my bachelor thesis Sketch-AI I am currently designing and training a deep learning model that interprets standardized technical drawings and ran large-scale training jobs on HPC infrastructure. I also helped build an AI legal document platform (ZHAW × Walder Wyss) that uses RAG and LangChain to enable semantic search and automated summarization. I implemented scalable document ingestion with PostgreSQL, Qdrant, and containerized services, and I integrated Azure OpenAI to generate answers from legal PDFs. These projects gave me practical experience deploying ML and LLM-based features to production, defining evaluation criteria, and iterating on metrics-driven improvements.
 
-I believe that my experience in data analysis makes me an ideal candidate for the Senior Data Analyst position at ABC Company. I am particularly excited about the opportunity to apply my skills to support your organization's mission and drive impactful insights. Your focus on driving innovative solutions to complex problems aligns closely with my own passion for using data analysis to drive positive change in organizations.
+I am drawn to the Personalization team because the role combines model-driven research with product-quality engineering. The chance to own features from hypothesis and evaluation to deployment fits how I work. I set clear metrics and build tooling to measure quality. I enjoy close collaboration with research scientists and product partners to translate experimental ideas into reliable user-facing behavior. My technical stack (Python, TensorFlow/PyTorch, LangChain, container orchestration and cloud CI/CD) matches the position's requirements. My part-time professional experience while finishing my BSc at the ZHAW School of Engineering taught me to balance rapid iteration with careful testing and observability. I am available to start in September and already based in Zurich.
 
-In my current role, I have been responsible for leading data projects from initiation to completion. I work closely with cross-functional teams to identify business problems and use data to develop solutions that drive business outcomes. I have a proven track record of delivering high-quality work on time and within budget.
+Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to personalization efforts on the Gemini App and would welcome an interview at your convenience.
 
-Furthermore, I have extensive experience in developing and implementing data-driven solutions that improve business operations. For example, I have implemented predictive models that have improved sales forecasting accuracy by 10%, resulting in significant cost savings. I have also developed dashboards that provide real-time insights into business performance, enabling stakeholders to make more informed decisions.
 
-As a highly motivated and detail-oriented individual, I am confident that I would thrive in the fast-paced and dynamic environment at ABC Company. I am excited about the opportunity to work with a talented team of professionals and to continue developing my skills in data analysis.
-
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
-
+#v(1.5em)
 Sincerely,
+
+Noel Fischer
