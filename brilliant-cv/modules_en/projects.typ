@@ -15,7 +15,7 @@
   location: [],
   description: list(
     [Development of a deep learning model for AI-supported interpretation of standardized technical drawings],
-    [literature research, dataset definition, implementation, evaluation and training on HPC infrastructure],
+    [Literature research, dataset definition, implementation, evaluation and training on HPC infrastructure],
   ),
 )
 

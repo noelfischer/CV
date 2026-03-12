@@ -27,6 +27,6 @@
   location: [],
   description: list(
     [Planning, providing and supervising trial days],
-    [Agile work in a team on a fullstack application in the Identity Management area],
+    [Agile work in a team on a fullstack application in Identity Management],
   ),
 )

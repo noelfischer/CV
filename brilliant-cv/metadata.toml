@@ -67,7 +67,7 @@ language = "en"
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        location = "Redacted, 8050 Zürich"
+        location = "8050 Zürich"
         "custom-1" = { awesomeIcon = "calendar", text = "24.08.2002", link = "" }
         "custom-2" = { awesomeIcon = "flag", text = "Swiss citizen", link = "" }
 
