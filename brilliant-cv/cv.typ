@@ -21,7 +21,7 @@
 
 #show: cv.with(
   metadata,
-  profile-photo: image("assets/avatar.png"),
+  profile-photo: image("assets/avatar.jpg"),
 )
 
 #import-modules((
