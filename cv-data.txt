@@ -15,7 +15,6 @@ Informatikstudent im letzten Semester mit Bachelorarbeit in Computer Vision und 
 09.2022 – 06.2026 	Bachelor of Science in Informatik
                     ZHAW School of Engineering, Winterthur, Schweiz
                     - International Profile, Entrepreneurial Profile, ZHAW Innovation Challenge 1.0 Gewinner
-                    - Bachelorarbeit «Sketch-AI» unter Betreuung von Thilo Stadelmann
 09.2025 – 01.2026	Auslandsemester
                     Shibaura Institute of Technology, Tokio, Japan
 08.2018 – 08.2022	Berufslehre zum Informatiker mit technischer Berufsmaturität
@@ -39,16 +38,16 @@ Informatikstudent im letzten Semester mit Bachelorarbeit in Computer Vision und 
 
             Projekte
 Bachelor Thesis SketchAI: KI-basierte Interpretation von technischen Zeichnungen.
-- Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen
-- Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur.
+-       Entwicklung eines Deep-Learning-Modells zur KI-gestützten Interpretation standardisierter technischer Zeichnungen
+-       Literaturrecherche, Datensatzdefinition, Implementierung, Evaluation und Training auf HPC-Infrastruktur
 
 KI-Plattform zur Analyse juristischer Dokumente: Legatiq (ZHAW × Walder Wyss)
-- Entwicklung eines KI-gestützten Rechtsassistenten mit Dokumenten-Upload, semantischer Suche (RAG) und automatischer Zusammenfassung mittels LangChain, LangGraph und Azure OpenAI
-- Implementierung einer skalierbarer Dokumentenverarbeitung mit PostgreSQL, Qdrant Vector Search und containerisierten Services für semantische Suche und KI-generierte Antworten aus juristischen PDFs
+-       Entwicklung eines KI-Rechtsassistenten für semantische Suche und Dokumentzusammenfassung (LangChain, Azure OpenAI)
+-       Implementierung einer skalierbaren RAG-Pipeline mit PostgreSQL und Qdrant zur Abfrage juristischer PDFs
 
 Persönliches Projekt: soundvisualiser.com
-–	Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js und Firebase. Erfolgreich skaliert auf 2.000+ monatliche Nutzer.
-–	Implementierung der Web Audio API zur performanten Visualisierung von Frequenzdaten.
+–	Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js, Web Audio API und Firebase
+–	Erfolgreich skaliert auf 2.000+ monatliche Nutzer
 
 
             IT-Kenntnisse
@@ -60,13 +59,14 @@ Web	                HTML5/CSS3, Tailwind CSS, React, Next.js, Angular
 Data & Datenbanken	SQL, PostgreSQL, MongoDB
 Backend	                Node.js, FastAPI, Spring Boot, REST APIs
 
-            IT-Zertifikate
-Leading SAFe Certification
-Azure Cloud Certification
+            Zertifikate
+2024-05-31 Leading SAFe Certification,  Scaled Agile, Inc.
+2025-08-28 AWS Technical Certification, Amazon Web Services
+2024-10-28 TOEFL iBT (English proficiency): 112/120, C1 Advanced,  ETS
 
             Sprachkenntnisse
-Deutsch	    Muttersprache
-Englisch	Verhandlungssicher, TOEFL iBT: 112/120 (C1 Advanced, 2025)
+Deutsch	        Muttersprache
+Englisch	Verhandlungssicher
 Französisch	Schulkenntnisse
 
             Freizeitaktivitäten und Interessen

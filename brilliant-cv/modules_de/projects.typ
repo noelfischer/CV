@@ -25,8 +25,8 @@
   date: [],
   location: [],
   description: list(
-    [Entwicklung eines KI-gestützten Rechtsassistenten mit Dokumenten-Upload, semantischer Suche (RAG) und automatischer Zusammenfassung mittels LangChain, LangGraph und Azure OpenAI],
-    [Implementierung einer skalierbarer Dokumentenverarbeitung mit PostgreSQL, Qdrant Vector Search und containerisierten Services für semantische Suche und KI-generierte Antworten aus juristischen PDFs],
+    [Entwicklung eines KI-Rechtsassistenten für semantische Suche und Dokumentzusammenfassung (LangChain, Azure OpenAI)],
+    [Implementierung einer skalierbaren RAG-Pipeline mit PostgreSQL und Qdrant zur Abfrage juristischer PDFs],
   ),
 )
 
@@ -36,7 +36,7 @@
   date: [],
   location: [],
   description: list(
-    [Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js und Firebase. Erfolgreich skaliert auf 2.000+ monatliche Nutzer],
-    [Implementierung der Web Audio API zur performanten Visualisierung von Frequenzdaten],
+    [Entwicklung einer Echtzeit-Audioanalyse-App mit React, p5.js, Web Audio API und Firebase],
+    [Erfolgreich skaliert auf 2.000+ monatliche Nutzer],
   ),
 )

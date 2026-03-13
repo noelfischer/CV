@@ -15,7 +15,7 @@
 #cv-skill-with-level(
   type: [Englisch],
   level: 5,
-  info: [Verhandlungssicher, TOEFL iBT: 112/120 (C1 Advanced, 2025)],
+  info: [Verhandlungssicher],
 )
 
 #cv-skill-with-level(

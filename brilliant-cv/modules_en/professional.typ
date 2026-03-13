@@ -16,8 +16,8 @@
   description: list(
     [Collaboration in a Scrum and SAFe-based team on a large IT project],
     [Creating and managing features for databases, server-critical applications, websites and the integration and communication of these various components],
+    [Working with technologies such as Java, Angular, TypeScript, SQL, CI/CD, SDLC]
   ),
-  tags: ("Java", "Angular", "TypeScript", "SQL", "CI/CD"),
 )
 
 #cv-entry(

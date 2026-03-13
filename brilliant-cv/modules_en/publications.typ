@@ -15,10 +15,3 @@
   ref-style: "ieee",
   ref-full: false,
 )
-
-// Example 2: All publications with APA style (commented out to avoid duplication)
-// #cv-publication(
-//   bib: bibliography("../assets/publications.bib"),
-//   ref-style: "apa",
-//   ref-full: true,
-// )

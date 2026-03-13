@@ -16,9 +16,8 @@
   description: list(
     [Zusammenarbeit in einem Scrum und SAFe-basiertem Team bei einem grossen IT-Projekt.],
     [Erstellen und Handhaben von Features für Datenbanken, serverkritische Anwendungen, Webseiten und die Verknüpfung und Kommunikation dieser verschiedenen Komponenten.],
-  ),
-  tags: ("Java", "Angular", "TypeScript", "SQL", "CI/CD"),
-)
+    [Umgang mit Technologien wie Java, Angular, TypeScript, SQL, CI/CD, SDLC]
+  ),)
 
 #cv-entry(
   title: [Lehre als Informatiker],

@@ -15,7 +15,6 @@
   location: [Winterthur, Switzerland],
   description: list(
     [International Profile, Entrepreneurial Profile, ZHAW Innovation Challenge 1.0 Winner],
-    [Bachelor Thesis «Sketch-AI» supervised by Thilo Stadelmann],
   ),
 )
 

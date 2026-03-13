@@ -15,7 +15,7 @@
 #cv-skill-with-level(
   type: [English],
   level: 5,
-  info: [Fluent, TOEFL iBT: 112/120 (C1 Advanced, 2025)],
+  info: [Fluent],
 )
 
 #cv-skill-with-level(
