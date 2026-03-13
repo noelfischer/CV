@@ -51,13 +51,13 @@ Persönliches Projekt: soundvisualiser.com
 
 
             IT-Kenntnisse
-Programmiersprachen	Python, Java, JavaScript/TypeScript
-Software Development	SDLC, Agile/Scrum methodologies, Git, Version control
-Machine Learning/AI	TensorFlow, PyTorch, Keras, LangChain, RAG
-Cloud	                Docker, Kubernetes, CI/CD pipelines, AWS, Azure
-Web	                HTML5/CSS3, Tailwind CSS, React, Next.js, Angular
-Data & Datenbanken	SQL, PostgreSQL, MongoDB
+Programmiersprachen	Python, Java, TypeScript, JavaScript
+Machine Learning / AI	TensorFlow, PyTorch, Keras, LangChain, RAG
 Backend	                Node.js, FastAPI, Spring Boot, REST APIs
+Web	                React, Next.js, Tailwind CSS, HTML5, CSS3, Angular
+Data & Datenbanken	SQL, PostgreSQL, MongoDB
+Cloud & DevOps	        Docker, Kubernetes, CI/CD pipelines, AWS, Azure
+Software Development	SDLC, Agile/Scrum, Version control
 
             Zertifikate
 2024-05-31 Leading SAFe Certification,  Scaled Agile, Inc.

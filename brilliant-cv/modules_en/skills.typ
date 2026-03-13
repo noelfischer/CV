@@ -20,12 +20,7 @@
 
 #cv-skill-wide(
   type: [Programming Languages],
-  info: [Python #h-bar() Java #h-bar() JavaScript/TypeScript],
-)
-
-#cv-skill-wide(
-  type: [Software Development],
-  info: [SDLC #h-bar() Agile/Scrum methodologies #h-bar() Git #h-bar() Version Control],
+  info: [Python #h-bar() Java #h-bar() TypeScript #h-bar() JavaScript],
 )
 
 #cv-skill-wide(
@@ -34,13 +29,13 @@
 )
 
 #cv-skill-wide(
-  type: [Cloud],
-  info: [Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines #h-bar() AWS #h-bar() Azure],
+  type: [Backend],
+  info: [Node.js #h-bar() FastAPI #h-bar() Spring Boot #h-bar() REST APIs],
 )
 
 #cv-skill-wide(
   type: [Web],
-  info: [HTML5/CSS3 #h-bar() Tailwind CSS #h-bar() React #h-bar() Next.js #h-bar() Angular],
+  info: [React #h-bar() Next.js #h-bar() Tailwind CSS #h-bar() HTML5 #h-bar() CSS3 #h-bar() Angular],
 )
 
 #cv-skill-wide(
@@ -49,6 +44,11 @@
 )
 
 #cv-skill-wide(
-  type: [Backend],
-  info: [Node.js #h-bar() FastAPI #h-bar() Spring Boot #h-bar() REST APIs],
+  type: [Cloud & DevOps],
+  info: [Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines #h-bar() AWS #h-bar() Azure],
+)
+
+#cv-skill-wide(
+  type: [Software Development],
+  info: [SDLC #h-bar() Agile/Scrum #h-bar() Version control],
 )
