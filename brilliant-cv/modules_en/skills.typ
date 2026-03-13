@@ -24,6 +24,11 @@
 )
 
 #cv-skill-wide(
+  type: [Software Development],
+  info: [SDLC #h-bar() Agile/Scrum #h-bar() Version control],
+)
+
+#cv-skill-wide(
   type: [Machine Learning / AI],
   info: [TensorFlow #h-bar() PyTorch #h-bar() Keras #h-bar() LangChain #h-bar() RAG],
 )
@@ -46,9 +51,4 @@
 #cv-skill-wide(
   type: [Cloud & DevOps],
   info: [Docker #h-bar() Kubernetes #h-bar() CI/CD pipelines #h-bar() AWS #h-bar() Azure],
-)
-
-#cv-skill-wide(
-  type: [Software Development],
-  info: [SDLC #h-bar() Agile/Scrum #h-bar() Version control],
 )
