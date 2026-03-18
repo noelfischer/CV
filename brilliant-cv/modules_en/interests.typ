@@ -6,4 +6,7 @@
 
 #cv-section("Interests")
 
-In my free time, I really enjoy taking the train to go hiking in nature or exploring nearby cities. I challenge myself athletically with parkour and calisthenics. I also like to apply my passion for IT in private coding projects.
+- Hiking in nature or exploring nearby cities by train
+- Parkour and calisthenics 2x per week
+- Coding
+

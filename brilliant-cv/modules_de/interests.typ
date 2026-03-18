@@ -6,4 +6,6 @@
 
 #cv-section("Freizeitaktivitäten und Interessen")
 
-In meiner Freizeit gehe ich sehr gerne mit dem Zug in die Natur Wandern oder in nahegelegene Städte, um sie zu erkunden. Sportlich fordere ich mich bei Parkour und Calisthenics heraus. Meine Leidenschaft für IT setze ich zudem gerne in privaten Coding-Projekten um.
+- Wandern in der Natur oder Erkunden von nahegelegenen Städten mit dem Zug
+- Parkour und Calisthenics 2x pro Woche
+- privaten Coding-Projekten nachgehen
