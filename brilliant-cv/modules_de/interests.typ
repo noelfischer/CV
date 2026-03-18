@@ -8,4 +8,4 @@
 
 - Wandern in der Natur oder Erkunden von nahegelegenen Städten mit dem Zug
 - Parkour und Calisthenics 2x pro Woche
-- privaten Coding-Projekten nachgehen
+- Privaten Coding-Projekten nachgehen
